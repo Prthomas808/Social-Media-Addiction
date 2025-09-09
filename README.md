@@ -6,3 +6,9 @@
 
 ## Sources
 ### Dataset can be found here https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
+
+## Key Questions
+### Category: Demographics & Usage
+#### What is the average daily usage by age group and gender?
+#### Which academic level (High School, Undergraduate, Graduate) reports the highest average usage hours?
+#####: Reasoning: These reveal which platforms contribute most to excessive use, connecting usage patterns to overuse.
