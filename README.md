@@ -6,8 +6,8 @@
 
 ## Key Questions 🔑
 ###  **Demographics & Usage 👨👩🧑**
-#### 1. What is the average daily usage by age group and gender?
-#### 2. Which academic level (High School, Undergraduate, Graduate) reports the highest average usage hours?
+1. What is the average daily usage by age group and gender?
+2. Which academic level (High School, Undergraduate, Graduate) reports the highest average usage hours?
 
 ### Academic Impact 📚
 #### 3. Among students who answered “Yes” to Affects Academic Performance, what is their average daily usage compared to those who answered “No”?
