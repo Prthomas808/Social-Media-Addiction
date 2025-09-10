@@ -21,6 +21,8 @@
 7. Is there a trend between sleep hours per night and mental health score?
 8. What percentage of students are classified as highly addicted (e.g., Addiction_Score ≥ 7)?
 
+## Results and Insights 
+
 ## Sources 🔌
 Dataset can be found here https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
 
