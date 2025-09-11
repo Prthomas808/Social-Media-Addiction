@@ -3,7 +3,7 @@
 ## Executive Summary 👨‍💼
 Students are spending excessive time on social media, which is linked to lower academic performance, poor sleep, and declining mental health.
 
-Impact: Heavy users average 5.5 hrs/day, sleep less than 6 hours/night, and 58% are classified as highly addicted—trends that threaten education outcomes and future workforce readiness.
+Impact: Heavy users average 5.5 hrs/day, sleep less than 6 hours/night, and 58% are classified as highly addicted trends that threaten education outcomes and future workforce readiness.
 
 Solution: By distinguishing healthy use from overuse, schools, health professionals, and employers can promote digital wellness strategies that support stronger academic results, better mental health, and long-term productivity.
 
