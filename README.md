@@ -1,15 +1,11 @@
 # Finding Balance: How Social Media Shapes Academic and Daily Life 📲
 
 ## Executive Summary 👨‍💼
-Excessive social media use among students is increasingly common, with many spending 5+ hours per day on these platforms. This overuse correlates with lower academic performance, reduced sleep, and poorer mental health, raising concerns for schools, health professionals, and future employers.
+Students are spending excessive time on social media, which is linked to lower academic performance, poor sleep, and declining mental health.
 
-Impact:
-Academic: Students who believe social media affects their studies average 5.54 hrs/day, compared to 3.8 hrs/day among unaffected peers.
-Health: Heavy users sleep 2+ hours less per night and report significantly lower mental health scores.
-Workforce: With 57.9% of students classified as highly addicted, long-term productivity and readiness for professional environments are at risk.
+Impact: Heavy users average 5.5 hrs/day, sleep less than 6 hours/night, and 58% are classified as highly addicted—trends that threaten education outcomes and future workforce readiness.
 
-Solution:
-By identifying patterns that separate healthy engagement from overuse, stakeholders can implement interventions to encourage balanced digital habits. Schools can build awareness campaigns, health professionals can integrate digital wellness into care, and industries can invest in early strategies that prepare students for sustainable success in education and the workplace.
+Solution: By distinguishing healthy use from overuse, schools, health professionals, and employers can promote digital wellness strategies that support stronger academic results, better mental health, and long-term productivity.
 
 ## Research Objective 🔎
 This analysis explores how social media use—when it becomes excessive—affects students’ academic outcomes, mental health, and productivity, while highlighting patterns that can help distinguish healthy engagement from overuse.
