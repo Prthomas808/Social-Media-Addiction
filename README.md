@@ -21,7 +21,8 @@
 7. Is there a trend between sleep hours per night and mental health score?
 8. What percentage of students are classified as highly addicted (e.g., Addiction_Score ≥ 7)?
 
-## Results and Insights 
+## Results and Insights
+- Social media usage peaks at age 18, with females reporting the highest usage (5.98 hrs/day) compared to males (5.06 hrs/day). Usage generally declines with age, but age 24 females show a rebound at 5.46 hrs/day
 
 ## Sources 🔌
 Dataset can be found here https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
