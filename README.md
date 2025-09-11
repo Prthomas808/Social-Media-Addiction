@@ -15,6 +15,10 @@ This matters because rising social media directly impacts education outcomes, me
 Students report the highest social media usage during their undergraduate years (5.0 hrs/day), with females aged 18 averaging nearly 6 hours/day, the peak among all demographics. Usage is closely tied to academic and health outcomes: students who believe social media affects their academics average 5.54 hrs/day, compared to just 3.8 hrs/day for those who do not. Heavy use also shows a clear tradeoff with sleep — students using >6 hrs/day sleep less than 6 hours/night, while light users average 8+ hours. Mental health is strongly linked to addiction levels, with low-addiction students scoring 9/10 on mental health versus 4/10 among high-addiction students. Notably, 57.9% of students surveyed fall into the “highly addicted” category (Addiction_Score ≥ 7), underscoring the widespread impact of social media on student well-being.
 
 ## Business Recommendations 📈
+By identifying patterns that separate healthy engagement from harmful overuse, stakeholders—including industry leaders—can:
+- Develop awareness programs to promote balance.
+- Encourage digital wellness practices that improve sleep and focus.
+- Support long-term student success and workforce readiness through healthier digital habits.
 
 ## Sources 🔌
 Dataset can be found here https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
